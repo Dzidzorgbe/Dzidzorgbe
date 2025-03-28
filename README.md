@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Dzidzorgbe
-- 👀 I’m interested in Data Management
-- 🌱 I’m currently learning Data Management
+- 👀 I’m interested in Data Science
 - 💞️ I’m looking to collaborate on Research related to Labour economics and Public sector economics
 - 📫 How to reach me eric.avorkpo@stu.ucc.edu.gh
 
